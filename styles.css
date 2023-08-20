@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(160, 96,96);
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    font-size: 5rem;
+    color: #DBEDF3;
+    font-family: cursive;
+    text-shadow: 3px 0 #DA0463;
+}
+  
+.w {
+    background-image: url("image/sound4.png");
+}
+  
+.a {
+    background-image: url("image/sound5.png");
+}
+  
+.s {
+    background-image: url("image/sound6.png");
+}
+  
+.d {
+    background-image: url("image/sound7.png");
+}
+  
+.j {
+    background-image: url("image/sound3.png");
+}
+  
+.k {
+    background-image: url("image/sound1.png");
+}
+  
+.l {
+    background-image: url("image/sound2.png");
+}
+  
+.all {
+    margin: 10% auto;
+}
+.button {
+    outline: none;
+    border: 10px solid #404B69;
+    font-size: 5rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #DA0463;
+    text-shadow: 3px 0 #d9d9d9;
+    border-radius: 15px;
+  
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+}
